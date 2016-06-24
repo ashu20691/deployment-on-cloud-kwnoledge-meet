@@ -113,8 +113,8 @@
       <file leaf-file-name="DataSource.groovy" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/conf/DataSource.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.96478873" vertical-offset="114" max-vertical-offset="720">
-              <caret line="35" column="54" selection-start-line="35" selection-start-column="54" selection-end-line="35" selection-end-column="54" />
+            <state vertical-scroll-proportion="0.6682809" vertical-offset="294" max-vertical-offset="720">
+              <caret line="38" column="50" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -606,12 +606,12 @@
       <option name="number" value="Default" />
       <updated>1466774610557</updated>
       <workItem from="1466774617494" duration="2314000" />
-      <workItem from="1466777276432" duration="1496000" />
+      <workItem from="1466777276432" duration="2147000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3810000" />
+    <option name="totallyTimeSpent" value="4461000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
@@ -791,8 +791,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/conf/DataSource.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.96478873" vertical-offset="114" max-vertical-offset="720">
-          <caret line="35" column="54" selection-start-line="35" selection-start-column="54" selection-end-line="35" selection-end-column="54" />
+        <state vertical-scroll-proportion="0.6682809" vertical-offset="294" max-vertical-offset="720">
+          <caret line="38" column="50" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
           <folding />
         </state>
       </provider>
