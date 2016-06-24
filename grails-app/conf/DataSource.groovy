@@ -33,10 +33,12 @@ environments {
             dbCreate = "update"
             driverClassName = "org.postgresql.Driver"
             dialect = org.hibernate.dialect.PostgreSQLDialect
+
             uri = new URI(System.env.DATABASE_URL?:"postgres://test:test@localhost/test")
-            url = "jdbc:postgressql://ixubxkrphywzna:kZKa1Lv0XQxteIM7RG2DVXYKNr@ec2-54-235-102-235.compute-1.amazonaws.com:5432/d9lsk9adtd1kje"
-            username = "ixubxkrphywzna"
-            password = "kZKa1Lv0XQxteIM7RG2DVXYKNr"
+
+            url = "jdbc:postgresql://ixubxkrphywzna:kZKa1Lv0XQxteIM7RG2DVXYKNr@ec2-54-235-102-235.compute-1.amazonaws.com:5432/d9lsk9adtd1kje"
+            username = uri.userInfo.split(":")[0]
+            password = uri.userInfo.split(":")[1]
         }
     }
 }
